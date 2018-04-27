@@ -22,6 +22,9 @@ public class Main {
         s = kb.nextInt();
        */
 
+	//int po degiskeni ile teklerin atamasi yapiliyor...
+	//int pe degiskeni ile ciftlerin atamasi yapiliyor...
+
         for (i = 0; i < size; i++)
             if(a[i] % 2 != 0) {
                 b[po] = a[i];
